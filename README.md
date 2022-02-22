@@ -6,8 +6,7 @@
 
 **💬 Ask me about anything u want !** <br/>
 **📫 How to reach me:** <br/>
-www.bartech-portfolio.herokuapp.com 
-<!--
+https://bartech-portfolio.herokuapp.com/<!--
 **Bartheus/Bartheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
