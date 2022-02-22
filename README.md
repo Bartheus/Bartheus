@@ -6,4 +6,4 @@
 
 **💬 Ask me about anything u want !** <br/>
 **📫 How to reach me:** <br/>
-https://bartech-portfolio.herokuapp.com/<!--
+https://bartech-portfolio.herokuapp.com/
