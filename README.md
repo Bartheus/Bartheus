@@ -3,7 +3,7 @@
 
 **:ant: I’m currently working on my new Portfolio.** <br/>
 **:coffee: I’m currently learning Java, TypeScript and Angular.**  <br/>
-**👯 I’m seeking for an Internship position as a Frontend Developer in Germany.**  <br/><br/>
+**👯 I’m seeking for an Junior Developer position in Germany.**  <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartheus&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=41B883)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartheus&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=41B883&icon_color=41B883&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
